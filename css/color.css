@@ -1,0 +1,16 @@
+#colorDiv{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    /*background-color: darkblue;
+    background-color: rgba(122, 120, 100, 0.3);*/
+    background-color: #424242;
+    
+}
+
+html{
+    background: url("../img/hambi.jpg") no-repeat;
+    /*background-image: url("../img/hambi.jpg");
+    background-repeat: no-repeat;*/
+    background-position: center center;
+}
