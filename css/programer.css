@@ -53,6 +53,6 @@ h3 {
 img {
     width: 150px;
     height: 100px;
-    box-shadow: 3 3 4 black;
+    box-shadow: 2px 2px 2px black;
     margin: 8px;
 }
