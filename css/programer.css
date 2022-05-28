@@ -29,14 +29,30 @@ h3 {
     color: coral;
 }
 
-p {
+.content {
     color: gray;
     font-size: 24px;
-    font-family: "Oswald-light";
+    font-family: "Oswald-light", sans-serif;
     text-align: justify;
+    line-height: normal;
+    font-weight: lighter;
+    margin: 10px 20px 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-div {
+    background-color: lightblue;
+}
+.light{
+    background-color: aliceblue;
 }
 
 img {
     width: 150px;
     height: 100px;
+    box-shadow: 3 3 4 black;
+    margin: 8px;
 }
